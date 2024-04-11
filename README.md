@@ -1,2 +1,2 @@
 # BlockChatFrontend
-Frontend application for the BlockChat app
+Frontend for the BlockChat app
